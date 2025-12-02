@@ -59,5 +59,6 @@ The goal is to provide a faithful translation of the UI design into clean, maint
 git clone https://github.com/mousliasma684-bit/Myproject.git
 cd Myproject
 npm install
+npm run dev
 
   
